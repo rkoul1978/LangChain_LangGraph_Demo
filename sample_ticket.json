@@ -1,0 +1,8 @@
+{
+  "project_key": "ENG",
+  "summary": "Login button is misaligned on mobile",
+  "description": "On screens narrower than 400px the login button overflows its container and is partially cut off.",
+  "issue_type": "Bug",
+  "priority": "High",
+  "labels": ["ui", "mobile"]
+}
